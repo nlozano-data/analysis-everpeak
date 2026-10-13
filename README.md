@@ -15,9 +15,7 @@ Puedes ejecutar y explorar este proyecto directamente en Google Colab, sin neces
 
 Haz clic en el siguiente botón para abrir el notebook:
 
-[![Open in Colab](https://colab.research.google.com/github/nlozano-data/analysis-everpeak/blob/main/S5_ladb_mobility_economy_project_student_(2).ipynb)
-
-**Enlace directo a Google Colab:** [Abrir notebook](PEGA_AQUI_TU_ENLACE_DE_GOOGLE_COLAB)
+**Enlace directo a Google Colab:** [Abrir notebook](https://colab.research.google.com/github/nlozano-data/analysis-everpeak/blob/main/S5_ladb_mobility_economy_project_student_(2).ipynb)
 
 ### 📌 Instrucciones
 
