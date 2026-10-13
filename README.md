@@ -7,6 +7,24 @@ Este proyecto explora la relación entre la movilidad urbana y los indicadores e
 
 El análisis busca aportar información útil para comprender los desafíos de movilidad urbana y orientar futuras investigaciones sobre infraestructura de transporte y desarrollo económico.
 
+## 🚀 Cómo abrir el notebook en Google Colab
+
+Puedes ejecutar y explorar este proyecto directamente en Google Colab, sin necesidad de instalar Python en tu computador.
+
+### ▶️ Abrir en Google Colab
+
+Haz clic en el siguiente botón para abrir el notebook:
+
+[![Open in Colab](https://colab.research.google.com/github/nlozano-data/analysis-everpeak/blob/main/S5_ladb_mobility_economy_project_student_(2).ipynb)
+
+**Enlace directo a Google Colab:** [Abrir notebook](PEGA_AQUI_TU_ENLACE_DE_GOOGLE_COLAB)
+
+### 📌 Instrucciones
+
+1. Abre el archivo `.ipynb` del proyecto en GitHub.
+2. Haz clic en el botón **Open in Colab**.
+3. Una vez abierto el notebook, ejecuta las celdas para explorar el análisis y sus resultados.
+
 ## 🎯 Objetivo
 
 Analizar la relación entre los indicadores de congestión vehicular, los tiempos de viaje y el PIB per cápita de diferentes ciudades latinoamericanas, mediante técnicas de análisis exploratorio y visualización de datos.
